@@ -1,1 +1,1 @@
-# Music-Generation-Using-RNN
+# Music-Generation-Using-RNN with LSTM
